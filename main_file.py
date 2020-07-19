@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.optim as optim
 import torch.nn.functional as F
 import torchvision.transforms as T
-from q_learning import *
+from q_learning_classes import *
 from snake_game import *
 import time
 
